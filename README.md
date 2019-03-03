@@ -1,4 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Movie Wiki is a single page application that allows a user to search their favourite movie. 
+
+## Info
+* Axios used to make API calls 
+* API from [The Open Movie Database](http://www.omdbapi.com/)
+* Built using React.JS, Flexbox CSS, ES6 JS
 
 ## Available Scripts
 
